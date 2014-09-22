@@ -1,0 +1,16 @@
+html{
+  background-color:#111 !important;
+}
+
+body{
+  -webkit-filter:invert(80%) !important;
+  -ms-filter:invert(80%);
+  filter:invert(80%);
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'invert\'><feColorMatrix in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0'/></filter></svg>#invert");
+}
+img, embed, iframe, object{
+  -webkit-filter:invert(1) !important;
+  -ms-filter:invert(1);
+  filter:invert(1);
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'invert\'><feColorMatrix in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0'/></filter></svg>#invert");
+}
