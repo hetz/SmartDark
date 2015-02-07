@@ -1,7 +1,7 @@
 Smart-Dark
 ==========
 
-Version: 1.2
+Version: 1.3
 
 
 Introduction 介绍
@@ -27,6 +27,9 @@ Install 安装方法
 
 Changelog 更新记录
 ==========
+20150207
+- Improve video and flash elements. 优化视频和 Flash 元素。
+
 20140911
 - Improve dark DOM struct. 改进黑色元素DOM层级关系。
 - Compatibility more browers. 兼容更多浏览器。
