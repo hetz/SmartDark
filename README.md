@@ -29,7 +29,7 @@ Changelog 更新记录
 ==========
 20150207
 - Improve video and flash elements. 优化视频和 Flash 元素。
-
+- Improve background image style. 优化背景图片样式。
 20140911
 - Improve dark DOM struct. 改进黑色元素DOM层级关系。
 - Compatibility more browers. 兼容更多浏览器。

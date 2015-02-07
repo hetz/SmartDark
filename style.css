@@ -8,7 +8,7 @@ body{
   filter:invert(80%);
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'invert\'><feColorMatrix in='SourceGraphic' type='matrix' values='-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0'/></filter></svg>#invert");
 }
-img, video, iframe, object[type='application/x-shockwave-flash']{
+img, video, iframe, object[type='application/x-shockwave-flash'], *[style*='url('] {
   -webkit-filter:invert(1) !important;
   -ms-filter:invert(1);
   filter:invert(1);
