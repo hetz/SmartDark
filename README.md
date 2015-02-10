@@ -1,7 +1,7 @@
 Smart-Dark
 ==========
 
-Version: 1.3
+Version: 1.3.2
 
 
 Introduction 介绍
