@@ -27,6 +27,9 @@ Install 安装方法
 
 Changelog 更新记录
 ==========
+20150210
+- Improve text more smoothing in webkit. 文字清晰平滑化在 Webkit 内核。
+
 20150207
 - Improve video and flash elements. 优化视频和 Flash 元素。
 - Improve background image style. 优化背景图片样式。
