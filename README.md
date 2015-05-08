@@ -1,7 +1,7 @@
 Smart-Dark
 ==========
 
-Version: 1.3.2
+Version: 1.3.3
 
 
 Introduction 介绍
@@ -27,6 +27,9 @@ Install 安装方法
 
 Changelog 更新记录
 ==========
+20150508
+- Fix browers webview drak error. 修复浏览器内部网页变黑的错误。
+
 20150210
 - Improve text more smoothing in webkit. 文字清晰平滑化在 Webkit 内核。
 
