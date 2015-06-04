@@ -1,7 +1,7 @@
 Smart-Dark
 ==========
 
-Version: 1.3.3
+Version: 1.3.4
 
 
 Introduction 介绍
@@ -27,6 +27,12 @@ Install 安装方法
 
 Changelog 更新记录
 ==========
+20150604
+- Fix form control visable. 修复输入框内容不可见问题。 
+- Improve render speed. 加快浏览器文字渲染速度。
+- Add disable site. 添加禁用站点规则。
+- ZoomIn fullpage element. 放大页面全局元素。
+
 20150508
 - Fix browers webview drak error. 修复浏览器内部网页变黑的错误。
 
