@@ -5,7 +5,7 @@
   }
   body {
 
-    // Speed first
+    /* Speed first */
     text-rendering             : optimizeSpeed;
     image-rendering            : optimizeSpeed;
     -webkit-image-rendering    : optimizeSpeed;
