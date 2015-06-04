@@ -1,4 +1,4 @@
-Smart-Dark
+Smart-Dark 
 ==========
 
 Version: 1.3.4
